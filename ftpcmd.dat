@@ -1,0 +1,6 @@
+open ftp.simonfalicon.fr
+mon_user
+mon_password
+cd /mon/root/directory
+put vm.txt
+quit
